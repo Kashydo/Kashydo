@@ -1,8 +1,7 @@
-### Hi there 👋
 <div id="header" align="center">
-  <img src="https://i.ibb.co/9vWdwZ7/Original-size-Untitled.jpg" />
+ <img src="https://i.ibb.co/GRsxMLP/Original-size-Untitled-removebg-preview.png" width="100">
 </div>
-
+### Hi there 👋
 <!--
 **Kashydo/Kashydo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
