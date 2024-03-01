@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF-SHXoAZA&#x2F;h8L4wvyYSh5dS-eIvidlvg&#x2F;view?embed" width="100"/>
+  <img src="https://i.ibb.co/9vWdwZ7/Original-size-Untitled.jpg" width="100"/>
 </div>
 
 <!--
