@@ -1,7 +1,7 @@
 <div id="header" align="center">
  <img src="https://i.ibb.co/GRsxMLP/Original-size-Untitled-removebg-preview.png" width="200">
 </div>
-<div id="badges">
+<div id="badges" align="center">
  <a href="https://www.linkedin.com/in/katarzyna-bernat-05026625b/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
