@@ -17,7 +17,17 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
+I am a Full Stack Developer from Poland:poland:
+- :seedling: I'm currently learning .NET while sharpening my skills in C#, JavaScript and Python
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katarzyna-bernat-05026625b/)
+- :zap: Fun Fuct: I can crochet
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40">
+</div>
 
 <!--
 **Kashydo/Kashydo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
