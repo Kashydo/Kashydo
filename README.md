@@ -9,9 +9,12 @@
 </div>
 </div>
 <h1>
-  Hi there 👋
+  Hi there! I am Katarzyna Bernat
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div align="center">
+<img src="https://i.ibb.co/qpnDMdH/Niebieskie-t-o.png">
+</div>
 ###
 <!--
 **Kashydo/Kashydo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
