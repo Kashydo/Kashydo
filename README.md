@@ -12,10 +12,13 @@
   Hi there! I am Katarzyna Bernat
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-<img src="https://i.ibb.co/qpnDMdH/Niebieskie-t-o.png" width="600"/>
+<img src="https://i.ibb.co/H4JX1DH/Niebieskie-t-o-1.png" width="600"/>
 </div>
-###
+---
+
+### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
+
 <!--
 **Kashydo/Kashydo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
