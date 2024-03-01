@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://i.ibb.co/GRsxMLP/Original-size-Untitled-removebg-preview.png" width="100">
+ <img src="https://i.ibb.co/GRsxMLP/Original-size-Untitled-removebg-preview.png" width="150">
 </div>
 ### Hi there 👋
 <!--
