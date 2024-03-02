@@ -17,7 +17,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer from Poland :poland_flag:
+I am a Full Stack Developer from Poland
 - :seedling: I'm currently learning .NET while sharpening my skills in C#, JavaScript and Python
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KatarzynaBernat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katarzyna-bernat-05026625b/)
 - :zap: Fun Fuct: I can crochet
