@@ -40,7 +40,10 @@ I am a Full Stack Developer from Poland
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40">
 </div>
-
+---
+<div>
+ <img src=https://www.codewars.com/users/kaszydo@gmail.com/badges/large>
+</div>
 <!--
 **Kashydo/Kashydo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
